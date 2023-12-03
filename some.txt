@@ -1,0 +1,7 @@
+Waf: Entering directory `/home/nishanth/Course/ndnSIM/ns-3/build'
+[2661/2716] Compiling scratch/final_test.cc
+[2675/2716] Linking build/scratch/final_test
+Waf: Leaving directory `/home/nishanth/Course/ndnSIM/ns-3/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (6.924s)
+[01;31mInterrupted[0m 
