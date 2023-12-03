@@ -8,6 +8,9 @@ This is a custom and unsupported fork of NS-3 simulator (http://www.nsnam.org/).
 The Network Simulator, Version 3
 ================================
 
+This repo implements the MPP qos forwarding paper.
+
+
 ## Table of Contents:
 
 1) [An overview](#an-open-source-project)
@@ -130,4 +133,3 @@ However, we recommend to follow the Gitlab guidelines for starters,
 that includes creating a Gitlab account, forking the ns-3-dev project
 under the new account's name, and then cloning the forked repository.
 You can find more information in the [manual](https://www.nsnam.org/docs/manual/html/working-with-git.html).
-# Ndn-source-code-MPP
